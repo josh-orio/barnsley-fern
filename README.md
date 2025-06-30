@@ -4,7 +4,7 @@ On a yucky winter morning, I decided to produce Barnsley fern images.
 
 ![there should be a fern image here...](fern.png)
 
-This builds on the template code from my repo cpp-pyplot to allow access to MatPlotLib through C++.
+This builds on the template code from my repo cpp-pyplot [now deleted, use cplotlib instead] to allow access to MatPlotLib through C++.
 
 The rest of the code for this repo was only written by referencing: https://en.wikipedia.org/wiki/Barnsley_fern
 
